@@ -1,5 +1,6 @@
-Spreadsheet with React js
-
+# Spreadsheet with React js
+Basic spread sheet using reactstrap Table and added a simple sum formula. In the following format
+=A1+B1+C1........ could be any cell location. This is a small test kind a project.
 
 
 
