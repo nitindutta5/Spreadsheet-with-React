@@ -3,7 +3,7 @@ import Table from './Table'
 function App() {
   return (
     <div className="App">
-      <Table x={100} y={100} />
+      <Table x={10} y={10} />
     </div>
   );
 }
